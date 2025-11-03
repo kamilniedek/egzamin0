@@ -1,0 +1,3 @@
+SELECT id,dataWyjazdu, cel, cena FROM wycieczki;
+
+SELECT nazwaPliku, podpis FROM zdjecia GROUP BY 1;
